@@ -1,14 +1,14 @@
-layout_spectrum: 0.5002439978998154
-typography_spectrum: 0.3111682399176061
+layout_spectrum: 0.5380587931722403
+typography_spectrum: 0.21466122684068978
 color:
-  brandStrength: 0.3024249237496406
-  lightness: 0.6089599449187517
-  saturation: 0.4112059907056391
-  rhythmicContrast: 0.9926091828383505
+  brandStrength: 0.4794608191587031
+  lightness: 0.47785632591694593
+  saturation: 0.663520218571648
+  rhythmicContrast: 0.2741667788941413
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Authentic Leadership
